@@ -29,7 +29,7 @@ I’m open to collaborations on:
 - **Email:** [michel.emel@aims-cameroon.org](mailto:michel.emel@aims-cameroon.org)
 - **LinkedIn:** [Michel Emel](https://www.linkedin.com/in/michel-emel)
 - **GitHub:** [michel-emel](https://github.com/michel-emel)
-- **Portfolio:** [Explore My Work](https://arasgungore.github.io)
+- **Portfolio:** [Explore My Work]()
 
 ## ⚡ Fun Fact
 When I’m not diving into data, I enjoy exploring game theory and its applications to real-world scenarios, blending strategic thinking with data-driven decision-making.
